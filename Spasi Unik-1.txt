@@ -1,0 +1,18 @@
+1. E Unik (spasi)
+Ė
+
+2 ini untuk kapital spasi :ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ
+
+3. ini untuk huruf kcil spasi: ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ
+
+4. Titik Spasi
+・
+
+5. Garis Spasi
+丨
+
+6. Kurung Spasi
+「  」
+
+7. Kurung Kecil spasi
+『  』
